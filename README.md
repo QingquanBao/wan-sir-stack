@@ -1,4 +1,4 @@
-# wan-sir-agent
+# wan-sir-stack
 
 > 万维钢思维伴侣 — 用万维钢的世界观回答你的人生、职业和认知问题。
 
@@ -11,7 +11,7 @@ Inspired by [gstack](https://github.com/garrytan/gstack).
 ## 一键安装
 
 ```bash
-npx skills add QingquanBao/wan-sir-agent
+npx skills add QingquanBao/wan-sir-stack
 ```
 
 安装后，在任何支持 skills 的 AI 工具（Claude Code、Codex CLI 等）中直接使用：
@@ -87,7 +87,7 @@ npx skills add QingquanBao/wan-sir-agent
 ## 架构
 
 ```
-wan-sir-agent/
+wan-sir-stack/
 ├── SKILL.md              ← 入口：触发条件 + 路由逻辑
 ├── worldview-core.md     ← 灵魂层：万维钢的世界观（每次必加载）
 ├── challenges/           ← 挑战模板（按需加载）

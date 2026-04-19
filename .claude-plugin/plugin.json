@@ -5,5 +5,5 @@
   "trigger": "用户描述人生处境、职业困惑、情绪困境、学习障碍、重大决策，或希望用万维钢视角分析问题时触发。用户使用 /wan-sir 前缀直接调用。",
   "skill": "SKILL.md",
   "author": "QingquanBao",
-  "repository": "https://github.com/QingquanBao/wan-sir-agent"
+  "repository": "https://github.com/QingquanBao/wan-sir-stack"
 }
