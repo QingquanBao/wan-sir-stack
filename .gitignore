@@ -1,0 +1,4 @@
+.DS_Store
+*.swp
+sources/*.md
+!sources/.gitkeep
